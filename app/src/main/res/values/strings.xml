@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">quadrand</string>
+    <string name="testcomp">Text composable</string>
+    <string name="textdisp">Display text and follow the recommended Material Design Guideline</string>
+    <string name="imacomp">Image composable</string>
+    <string name="imdisp">Create a compossable that lays out and draw a given painter class objet</string>
+    <string name="rowcomp">Row composable</string>
+    <string name="rowdisp">A layout compossable that places its children in a horizontal sequence </string>
+    <string name="colcomp">Columncomposable</string>
+    <string name="coldisp">A layout compossable that places its children in a verticale  sequence </string>
+
+</resources>
